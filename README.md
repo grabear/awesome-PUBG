@@ -16,3 +16,5 @@ _Note: This should be used as a general guide.  Try to be as concise as possible
 * Everyone stop talking:  "All Hush"
 * Everyone resume talking: "All Clear"
 
+### Other Helpful Things
+* "Vehicle" instead of "car", which could be confused with "Kar98"
