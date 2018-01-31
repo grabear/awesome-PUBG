@@ -1,6 +1,10 @@
 # PUBG-things
 A list for various PUBG stuff like communication, keybindings, etc.
 
+## Useful Links
+* [Squad Guide](http://www.pcgamer.com/pubg-squad-guide/)
+* [Key Bindings Video Explanation](https://www.bestpubg.com/guide-important-custom-key-bindings-playerunknowns-battlegrounds-pubg/)
+
 ## Key Bindings
 * Toggle Fire Mode: "Caps Lock"
 * Use Grenade: "G"
@@ -22,3 +26,4 @@ _Note: This should be used as a general guide.  Try to be as concise as possible
 
 ## Scenarios
 _Add noteworthy scenarios here._
+
