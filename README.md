@@ -18,3 +18,7 @@ _Note: This should be used as a general guide.  Try to be as concise as possible
 
 ### Other Helpful Things
 * "Vehicle" instead of "car", which could be confused with "Kar98"
+
+
+## Scenarios
+_Add noteworthy scenarios here._
