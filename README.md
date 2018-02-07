@@ -10,12 +10,18 @@ A list for various PUBG stuff like communication, keybindings, etc.
 
 ## Key Bindings
 * Toggle Fire Mode: "Caps Lock"
+* Toggle Throwing Stance: "Shift + R"
 * Use Grenade: "G"
 * Use First Aid Kit: "H"
 * Use Bandage: "B"
 * Use Boost Item: "T"
 * Map: "`"
 * Mark My Location: "Ctrl + Space Bar"
+* Switch Seats: "F1", "F2", "F3", "F4"
+* Auto Run: "=" (set mouse button to "=")
+
+## Key Input Method
+* Peek: "Double Tap"
 
 ## Communication
 _Note: This should be used as a general guide.  Try to be as concise as possible._
