@@ -4,6 +4,9 @@ A list for various PUBG stuff like communication, keybindings, etc.
 ## Useful Links
 * [Squad Guide](http://www.pcgamer.com/pubg-squad-guide/)
 * [Key Bindings Video Explanation](https://www.bestpubg.com/guide-important-custom-key-bindings-playerunknowns-battlegrounds-pubg/)
+* [Interactive Map](https://pubgmap.io/)
+* [Car Spawn Map](http://indieobscura.com/article/1038/car-spawn-locations-in-playerunknowns-battlegrounds)
+* [Boat Spawn Map](http://indieobscura.com/article/1072/all-boat-spawn-locations-in-playerunknowns-battlegrounds)
 
 ## Key Bindings
 * Toggle Fire Mode: "Caps Lock"
