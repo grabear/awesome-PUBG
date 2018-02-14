@@ -1,4 +1,6 @@
 # PUBG-things
+
+[![Join the chat at https://gitter.im/awesome-PUBG/Lobby](https://badges.gitter.im/awesome-PUBG/Lobby.svg)](https://gitter.im/awesome-PUBG/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A list for various PUBG stuff like communication, keybindings, etc.
 
 ## Useful Links
