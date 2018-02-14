@@ -1,7 +1,6 @@
-# PUBG-things
+# PUBG-things [![Join the chat at https://gitter.im/awesome-PUBG/Lobby](https://badges.gitter.im/awesome-PUBG/Lobby.svg)](https://gitter.im/awesome-PUBG/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![Join the chat at https://gitter.im/awesome-PUBG/Lobby](https://badges.gitter.im/awesome-PUBG/Lobby.svg)](https://gitter.im/awesome-PUBG/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-A list for various PUBG stuff like communication, keybindings, etc.
+A curated list of awesome stuff for Player Unknown Battleground.
 
 ## Useful Links
 * [Squad Guide](http://www.pcgamer.com/pubg-squad-guide/)
