@@ -37,3 +37,8 @@ _Note: This should be used as a general guide.  Try to be as concise as possible
 ## Scenarios
 _Add noteworthy scenarios here._
 
+## Aim Points
+Credit goes to [u/Silvercraving](https://www.reddit.com/user/Silvercraving) and his post on [r/PUBATTLEGROUNDS](https://www.reddit.com/r/PUBATTLEGROUNDS/comments/7wsrz6/so_i_made_an_infographic_of_aim_points_and/), and to his inspiration [WackyJacky101](https://www.youtube.com/channel/UCfK7qpS954pk14YvDCsWCuw) and his [PUBG 1.0+Scope Guides](https://www.youtube.com/playlist?list=PLcNsO6IKrmY9gDPqzm2EU4OpBInyzbKmu).
+
+![](https://i.imgur.com/Wp46IV7.png)
+
