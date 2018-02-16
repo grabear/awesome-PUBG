@@ -8,6 +8,7 @@ A curated list of awesome stuff for Player Unknown Battleground.
 * [Interactive Map](https://pubgmap.io/)
 * [Car Spawn Map](http://indieobscura.com/article/1038/car-spawn-locations-in-playerunknowns-battlegrounds)
 * [Boat Spawn Map](http://indieobscura.com/article/1072/all-boat-spawn-locations-in-playerunknowns-battlegrounds)
+* [Nividia Game Filter Replacement for Reshade](https://www.youtube.com/watch?v=xwmax0Mynts)
 
 ## Key Bindings
 * Toggle Fire Mode: "Caps Lock"
